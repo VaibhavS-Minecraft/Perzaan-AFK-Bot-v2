@@ -1,7 +1,7 @@
 {
-  "name": "AFK Bot",
+  "name": "AFK BOY",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "PAAJI",
     "password": "",
     "type": "offline"
   },
@@ -9,7 +9,7 @@
     "ip" "Vaibhav25.aternos.me",
     "port": 32687,
 
-    "version": "1.26.2"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
